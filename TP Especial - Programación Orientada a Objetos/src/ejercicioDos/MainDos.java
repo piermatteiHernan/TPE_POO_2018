@@ -3,7 +3,7 @@ package ejercicioDos;
 public class MainDos {
 
 	public static void main(String[] args) {
-		///Mismo ejemplo que el enunciado uno
+		///Mismo ejemplo que el enunciado UNO
 		Cola ter1= new Terminal();
 		Cola ter2= new Terminal();
 		Cola ter3= new Terminal();
